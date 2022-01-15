@@ -11,3 +11,6 @@ https://github.com/mrdiamonddirt/WeazelNewsCam
 
 https://github.com/mrdiamonddirt
 
+discord
+https://discord.gg/hJZrgFjVjs
+https://discord.gg/hJZrgFjVjs
