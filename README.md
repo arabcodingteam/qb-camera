@@ -9,4 +9,5 @@ or
 
 https://github.com/mrdiamonddirt/WeazelNewsCam
 
-mrdiamonddirt
+https://github.com/mrdiamonddirt
+
