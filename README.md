@@ -1,19 +1,8 @@
 # qb-camera
-this script from Weazel News Camera and Mic and 
+arabcodingteam camera
 
-the owner of script 
-
+made by:
 https://forum.cfx.re/t/release-weazel-news-camera-and-mic/116118
-
-or
-
-https://github.com/mrdiamonddirt/WeazelNewsCam
-
-https://github.com/mrdiamonddirt
-
-discord
-https://discord.gg/hJZrgFjVjs
-https://discord.gg/hJZrgFjVjs
 
 
 ![FiveM_b2189_GTAProcess_HTQ7RWrrzA](https://user-images.githubusercontent.com/89742984/149625563-411358a5-e936-4a83-9179-d0822e73de6b.jpg)
