@@ -1,5 +1,5 @@
 # qb-camera
-arabcodingteam camera
+krrm1 camera
 
 made by:
 https://forum.cfx.re/t/release-weazel-news-camera-and-mic/116118
